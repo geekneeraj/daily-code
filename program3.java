@@ -1,4 +1,4 @@
-class Program1 
+class Program3 
 {
 	public static void main(String[] args) 
 	{
@@ -6,7 +6,7 @@ class Program1
 		{
 			for (int j=1;j<=5 ;j++ )
 			{
-				System.out.print(i);
+				System.out.print(j);
 			}
 			System.out.println();
 		}
@@ -15,8 +15,8 @@ class Program1
 }
 
 
-// 11111
-// 22222
-// 33333
-// 44444
-// 55555
+// 12345
+// 12345
+// 12345
+// 12345
+// 12345
